@@ -1,0 +1,14 @@
+.DS_Store
+.pio
+.vscode
+.travis.yml
+.idea
+*.code-workspace
+include
+lib
+test
+projects
+projects/**/.gitignore
+tutorial_examples/**/.gitignore
+experiments/**/.gitignore
+
